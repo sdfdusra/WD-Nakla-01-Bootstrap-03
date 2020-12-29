@@ -1,0 +1,52 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.nkHeader{
+    background-color: cadetblue;
+}
+.bannerSection{
+    margin: 30px 0px;
+}
+/* .nkHeader .navbar{
+    padding: 150px 0px;
+    background-color: chartreuse;
+} */
+.googleMap iframe{
+    max-width: 100%;
+    width: 100%;
+    height: 100px;
+}
+.boxHeader h4{
+    background-color: #3C9E31;
+    color: #fff;
+    padding: 10px;
+    font-family: 'Lobster', cursive;
+    text-transform: uppercase;
+}
+.boxHeader h4 i{
+    color: gold;
+}
+.boxHeader h4 span{
+    font-weight: 700;
+    text-shadow: 3px 4px 3px #222;
+}
+.boxContent{
+    padding: 15px;
+    /* background-color: deeppink; */
+}
+/* .boxContent p{
+    background-color: white;
+} */
+.commonBox{
+    border: 1px solid #3C9E31;
+    border-radius: 5px;
+}
+.threeboxs{
+    margin: 30px 0px;
+}
